@@ -1,6 +1,6 @@
 # Bleta - AutoClicker Hotkey
 
-A lightweight autoclicker for AutoHotkey, designed to automate clicking for the **Simulation Clicker** game at [neal.fun/clicker](https://neal.fun/clicker/).
+A lightweight autoclicker for AutoHotkey, designed to automate clicking for the **Simulation Clicker** game at [neal.fun](https://neal.fun/stimulation-clicker/).
 
 ## How to Use
 
